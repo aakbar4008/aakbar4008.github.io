@@ -1,2 +1,2 @@
-# personal-website
-Portfolio/blog/miscellaneous
+# Portfolio/Blog/Progress Tracekr
+projects and miscellaneous things
